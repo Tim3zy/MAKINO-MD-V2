@@ -19,7 +19,7 @@ global.ANTI_BOT = false;
 global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
-global.SESSION_ID = process.env.SESSION_ID || ""
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-Kb0U2eye"
 global.Owner = ["2348122446412"]; //like 2347080968564 
 global.OwnerName =  "TimmyFk ";
 global.BotName = "TimmyFk♱♡⃤";
